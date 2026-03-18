@@ -58,9 +58,9 @@ python src/main.py
 - **Space** – jump
 - **Close window** – quit the game
 
-## Notes
+## What I Learned
 
-This version was cleaned up to use a more Git-friendly structure:
-- assets are loaded relatively from the project directory
-- duplicate cache/system files are ignored
-- source code is separated from assets
+- working with game loops and real-time systems
+- implementing physics and collision detection
+- structuring a multi-file Python project
+- managing assets and project architecture
